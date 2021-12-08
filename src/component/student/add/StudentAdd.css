@@ -1,0 +1,8 @@
+.align-center{
+    align-self: center;
+    margin-top: 23px;    
+}
+
+.error__label {
+    color: red;
+}
